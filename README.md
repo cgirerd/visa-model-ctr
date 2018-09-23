@@ -1,2 +1,2 @@
-# visa-model-ctr
-The model of Concentric Tube Robot
+# visa-model-torsionless-ctr
+The model of torsionless Concentric Tube Robot
